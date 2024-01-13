@@ -1,4 +1,11 @@
-### Hi there 👋
+
+![images](https://github.com/TiagoRPenha/TiagoRPenha/assets/127141855/fbaea870-5fb2-417d-b4ee-b988abdd971d)
+
+<h1>Tiago Penha</h1>
+
+<a href="https://www.linkedin.com/in/tiago-penha/">
+ <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="30px">
+</a>
 
 <!--
 **TiagoRPenha/TiagoRPenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![images](https://github.com/TiagoRPenha/TiagoRPenha/assets/127141855/fbaea870-5fb2-417d-b4ee-b988abdd971d)
-
-<h1>Tiago Penha</h1>
-
-<a href="https://www.linkedin.com/in/tiago-penha/">
- 
-![174857](https://github.com/TiagoRPenha/TiagoRPenha/assets/127141855/da5340ca-1f58-4ef0-9615-2f6d59a3465d)
-
-</a>
